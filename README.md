@@ -1,5 +1,26 @@
+## How it works:
+
+- python3 test_calc.py
+
 # How to unittest module
 - Using unittest module with examples and assertions
 
-# To run:
-- python3 test_calc.py
+------
+
+###
+
+-----
+
+## Technologies Used:
+
+- Python
+
+###
+
+-----
+
+## What I Learned:
+
+##
+
+Clone repo:
