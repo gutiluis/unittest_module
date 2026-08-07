@@ -11,7 +11,7 @@ unittest module with examples and assertions
 
 ```
 git clone https://github.com/gutiluis/unittest_module.git
-python3
+python3 -m unittest test_calc.py
 ```
 
 ---
