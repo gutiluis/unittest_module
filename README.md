@@ -10,7 +10,7 @@ unittest module with examples and assertions
 ## How it works
 
 ```
-git clone https://github.com/gutiluis/[reponame].git
+git clone https://github.com/gutiluis/unittest_module.git
 python3
 ```
 
