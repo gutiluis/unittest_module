@@ -3,7 +3,7 @@
 
 # Unittest module implementation in Python
 
-unittest module with examples and assertions
+how to use the unittest module with examples and assertions
 
 ---
 
